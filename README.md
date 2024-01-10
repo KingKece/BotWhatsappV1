@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
-  <title>Dyat Kece</title>
 </head>
 <body>
   <center><h1>⚠️ 𝚈𝚜 𝙼𝚘𝚍𝚜 ⚠️</h1>
