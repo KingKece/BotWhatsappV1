@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
-  <script src="js/index.js"></script>
   <title>Dyat Kece</title>
 </head>
 <body>
@@ -30,26 +29,4 @@
 </header>
 </body>
 </html>
-
-
-<style>
-  *{
-    padding: 20;
-    margin: 20;
-  }
-  body{
-       background: black;
-       background-size: cover;
-       color: red;
-       font-size: 20px;
-  }
-  .font{
-    font-size: 18px;
-  }
-  h4{
-    font-size: 15px;
-  }
-</style>
-
-
 
